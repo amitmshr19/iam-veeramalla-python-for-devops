@@ -1,4 +1,4 @@
-is_sunny = True
+is_sunny = False
 is_warm = False
 
 if is_sunny or is_warm:
