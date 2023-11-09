@@ -26,4 +26,4 @@ class Dog:
 my_dog = Dog("Buddy", "Labrador")
 
 # Accessing class attributes and methods
-print(f"My dog's name is {my_dog.name} and it says {my_dog.bark()}.")
+print(f"My dog's name is {my_dog.name}, breed is {my_dog.breed} and it says {my_dog.bark()}.")
