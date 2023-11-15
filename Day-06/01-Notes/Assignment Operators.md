@@ -67,26 +67,22 @@ n = 4
 m /= n
 print(m)  # Output: 5.0
 Here, m /= n is equivalent to m = m / n, so the value of m is updated to 20 / 4 = 5.0. Note that the result is a floating-point number because regular division (/) in Python results in a float.
-```
 
 **# Floor division assignment**
----
 p = 17
 q = 5
 p //= q
 print(p)  # Output: 3
 In this example, p //= q is equivalent to p = p // q, so the value of p is updated to the result of the floor division of 17 by 5, which is 3.
----
+
 **# Modulus assignment**
----
 a = 13
 b = 4
 a %= b
 print(a)  # Output: 1
 Here, a %= b is equivalent to a = a % b, so the value of a is updated to the remainder when 13 is divided by 4, which is 1.
----
+
 **# Exponentiation assignment**
----
 x = 2
 y = 3
 x **= y
