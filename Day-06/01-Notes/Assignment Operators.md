@@ -35,4 +35,36 @@ x = 5
 ```python
 y = 10
 y += 3  # Equivalent to y = y + 3
+
+###Certainly! Here are examples for each of the assignment operators you mentioned:
+
+**# Addition assignment**
+x = 5
+y = 3
+x += y
+print(x)  # Output: 8
+In this example, x += y is equivalent to x = x + y, so the value of x is updated to 5 + 3 = 8.
+
+
+**# Subtraction assignment**
+a = 10
+b = 4
+a -= b
+print(a)  # Output: 6
+Here, a -= b is equivalent to a = a - b, so the value of a is updated to 10 - 4 = 6.
+
+**# Multiplication assignment**
+p = 3
+q = 6
+p *= q
+print(p)  # Output: 18
+The statement p *= q is equivalent to p = p * q, so the value of p becomes 3 * 6 = 18.
+
+
+**# Division assignment**
+m = 20
+n = 4
+m /= n
+print(m)  # Output: 5.0
+Here, m /= n is equivalent to m = m / n, so the value of m is updated to 20 / 4 = 5.0. Note that the result is a floating-point number because regular division (/) in Python results in a float.
 ```
