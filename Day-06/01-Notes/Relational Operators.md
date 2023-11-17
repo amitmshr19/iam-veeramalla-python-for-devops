@@ -36,4 +36,38 @@ x = 10
 y = 7
 result = x != y
 # result will be True
-```
+
+### Greater than (>)
+```python
+a = 5
+b = 3
+
+result = a > b
+print(result)
+# Output: True
+
+### Less than (<)
+```python
+x = 10
+y = 15
+result = x < y
+print(result)
+# Output: True
+
+### Greater than or equal to (>=)
+```python
+m = 8
+n = 8
+result = m >= n
+print(result)
+# Output: True
+
+### Less than or equal to (<=)
+```python
+p = 20
+q = 25
+result = p <= q
+print(result)
+# Output: True
+### These examples demonstrate how you can use the comparison operators to evaluate whether a given condition is true or false based on the relationship between the operands.
+---
