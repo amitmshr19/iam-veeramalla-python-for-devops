@@ -43,7 +43,6 @@
 ## Day 7: Conditional Handling using if, elif and else
 - Conditional statements (if, elif, else).
 - Practice exercises and examples:
-  - Example: Automating a server shutdown if it's running out of disk space.
 
 ## Day 8: Working with Lists (Part 1)
 - Understanding lists and list data structure.
@@ -61,7 +60,7 @@
 - List comprehensions.
 - Nested lists and advanced list operations.
 - Practice exercises and examples:
-  - Example: Parsing a complex configuration file with nested lists.
+  - Example: Print list of files in the list of folders provided
 
 ## Day 11: Working with Dictionaries and Sets
 - Dictionaries and key-value pairs.
